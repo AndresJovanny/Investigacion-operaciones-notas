@@ -1,1 +1,1 @@
-# Investigaci-n-de-Operaciones-Notas
+# Investigación de Operaciones - Notas
